@@ -1,0 +1,167 @@
+/* Font For All */
+* {
+    font-family: 'Poppins', sans-serif;
+}
+/* Color */
+.red {
+    
+    color: red;;
+}
+.blue {
+   
+    color:blue;
+}
+.white {
+    color: white;
+}
+.green {
+ color:green;
+}
+
+.yellow {
+    color: darkorange;
+}
+
+.dark-blue {
+    color: #242f51;
+}
+
+/* Paragraph */
+* p {
+    font-size: 13px;
+    color: #6c757d;
+}
+/* Navigation Bar*/
+.nav-bar a{
+    text-decoration:none;
+    color: black;
+    padding: 10px;
+    font-size: 15px;
+}
+
+/* Main Container*/
+.container {
+    margin-top: 40px;
+}
+/* try btn*/
+.try-btn {
+    padding: 10px;
+     width: 170px;
+    height: 50px;
+    border-radius: 29px;
+    background-color: #0d6efd;
+}
+/* Hover Effect */
+.try-btn:hover ,
+.nav-bar-white :hover,
+.nav-bar :hover,
+.demo:hover {
+    background-color:darkorange;
+    color: black;
+    border-radius: 15px;
+}
+
+/* Home Banner*/
+.home-bnr img{
+    margin-top: 30px;
+    height: 700px;
+}
+/* Heading */
+.heading h1 {
+font-size: 60px;
+line-height: 75px;
+color: #242f51;
+font-weight: 600;
+}
+.heading p {
+    font-size: 15px;
+    padding: 5px 70px;
+}
+.heading {
+    margin-top: 200px;
+}
+/* heading Ends */
+.section-1{
+    background-image: url('../images/banner_back(building).png');
+    background-repeat: no-repeat;
+    position: relative;
+    top: 90%;
+    background-position: right bottom;
+} 
+/* Block */
+.para-bg {
+    background-color:#e1eaed;
+    border-radius:30px;
+    display: inline-block;
+}
+/* Demo Btn */
+
+.demo {
+    text-decoration: none;
+}
+
+/* Section 1 End */
+/* ṣection 2 start */
+/* second tittle */
+second-main {
+    font-size: 16px;
+}
+/* vertical line */
+.line{
+    margin-left:5px;
+    width:3px;
+    height:100%;
+    border-left:1px solid black;
+   }
+
+   /* Toggle Button */
+.m-btn {
+    border-radius: 100px;
+    display: inline-block;
+      box-shadow: 5px 10px 18px #e1eaed;
+    background-color:#0d6efd;
+}
+
+   /* Pricing Card Division */
+.division {
+       background-color:#e1eaed;
+       display: inline-block;
+       text-align: center;
+ }
+ .dolar {
+    font-size: 50px;
+}
+.bg-color {
+    background-color:#e1eaed;
+}
+ul li {
+        list-style-type:none;
+        padding: 15px;
+        font-size: 14px;
+        color: #6c757d;
+    }
+.sh {
+        box-shadow: 5px 10px 18px #e1eaed;
+    }
+ /* footer division */
+.nav-bar-white a{
+    text-decoration:none;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+/* icon */
+.fa {
+    font-size: 30px;
+    letter-spacing: 23px;
+}
+/* copyright */
+.copyright {
+font-size: 15px;
+}
+.nav-bar-1 a{
+    text-decoration:none;
+    color:#0d6efd;
+    font-size: 15px;
+}
+
